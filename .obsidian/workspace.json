@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "700c9ce857f3ae78",
+    "id": "49422bb40ce298d8",
     "type": "split",
     "children": [
       {
-        "id": "dc9c83aeaaf198d0",
+        "id": "c27e1f1ddb13a3e9",
         "type": "tabs",
         "children": [
           {
-            "id": "cbac9c78ceee71d9",
+            "id": "71857ed8e130326e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "File Upload 2.md",
+                "file": "file_upload.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "File Upload 2"
+              "title": "file_upload"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e2f9595cde37c54f",
+    "id": "644b130692a93b6e",
     "type": "split",
     "children": [
       {
-        "id": "5426b9750fb97cb0",
+        "id": "e4fb3595369a33de",
         "type": "tabs",
         "children": [
           {
-            "id": "23442748c577704d",
+            "id": "1d81a30fc77f5f95",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "2dcf7922fa8c27aa",
+            "id": "dc462121570017ce",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "6dafcdccbf207d18",
+            "id": "7a47e04ccf331327",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "bc42554c496db289",
+    "id": "dfdee9062ccc1517",
     "type": "split",
     "children": [
       {
-        "id": "ccd3f9cdd857c6f2",
+        "id": "3a2ea89a5b529607",
         "type": "tabs",
         "children": [
           {
-            "id": "36756f8ff378c50b",
+            "id": "5145595181cb9f1f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "File Upload 2.md",
+                "file": "file_upload.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for File Upload 2"
+              "title": "Backlinks for file_upload"
             }
           },
           {
-            "id": "3aaae48f2d9ced4d",
+            "id": "cfb114b7c62c60d6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "File Upload 2.md",
+                "file": "file_upload.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from File Upload 2"
+              "title": "Outgoing links from file_upload"
             }
           },
           {
-            "id": "ef151f8cb78acd99",
+            "id": "6800bb69a15bbaef",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +137,7 @@
             }
           },
           {
-            "id": "198d9f004d0561d2",
+            "id": "bd3a89a4b57dc64b",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,18 +151,18 @@
             }
           },
           {
-            "id": "eca7fecb8a209628",
+            "id": "06319a61bfeae8ba",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "File Upload 2.md",
+                "file": "file_upload.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of File Upload 2"
+              "title": "Outline of file_upload"
             }
           }
         ]
@@ -183,8 +183,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "23442748c577704d",
+  "active": "71857ed8e130326e",
   "lastOpenFiles": [
-    "File Upload 2.md"
+    "Hackbase.md",
+    "rev_shells.md",
+    "file_upload.md",
+    "README.md",
+    "1/File Upload 2.md",
+    "1/another.md",
+    "1"
   ]
 }

