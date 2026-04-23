@@ -39,7 +39,7 @@ https://0ad300bc0428e31284334ba0005e00da.web-security-academy.net/files/avatars/
 GET /files/avatars/Hot_Babe.png HTTP/2
 Host: 0ad300bc0428e31284334ba0005e00da.web-security-academy.net
 ```
-4 - copy to repeater and create 10 requests from step 2 (upload shell)
+4 - copy to repeater and create 10 requests from step 2 (upload shell)\n
 5 - copy to repeater and create 10 requests from step 1 (upload valid image) but replace the name of the valid image with the name of the shell being uploaded from step 1
 ```php
 GET /files/avatars/shell.php HTTP/2
