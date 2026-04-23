@@ -49,3 +49,4 @@ GET /files/avatars/shell.php HTTP/2
 Host: 0ad300bc0428e31284334ba0005e00da.web-security-academy.net
 ```
 
+6 - send these 20 requests in parallel
