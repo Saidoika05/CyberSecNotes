@@ -22,3 +22,7 @@ Application Programming Interfaces
    ```
 3. Try `GET /api/user/carlos`
 4.  `DELETE /api/user/carlos `
+### Identifying API endpoints
+- Look for patterns that suggest API endpoints in the URL structure, such as `/api/`
+- Look out for JavaScript files. These can contain references to API endpoints that you haven't triggered directly via the web browser
+	May use JS Link Finder BApp for burp

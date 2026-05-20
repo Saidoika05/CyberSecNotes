@@ -7,6 +7,12 @@ ps aux --sort=-%mem | head -n 10 | cut -c -105
 
 ```bash
 sudo du -sh /* 2>/dev/null | sort -hr
+sudo du -sh /usr/* | sort -hr
 #show disk partition and storage usage
+```
+
+```bash
+df -h
+#show physical dick usage
 ```
 
